@@ -1,4 +1,4 @@
-package com.example.flight_booking_api;
+package com.example.flightbooking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
